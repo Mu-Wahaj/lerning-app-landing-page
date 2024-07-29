@@ -23,4 +23,9 @@ JavaScript:
 Interactive features and dynamic content updates.
 React/Vue/Angular (optional based on framework used): For building reusable components and managing application state.
 Getting started :
-for  cloning
+for  cloning https://github.com/MwahajJutt/lerning-app-landing-page.git
+Contributing:
+We welcome contributions from the community! If you have ideas for improvements or new features, please open an issue or submit a pull request. 
+Contact
+For questions or further information, please reach out to mwahajjutt123@gmail.com
+thank you!.
